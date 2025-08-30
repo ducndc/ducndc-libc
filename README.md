@@ -1,2 +1,2 @@
-# glibc
-glibc
+# duncdc-libc
+ducndc-libc
